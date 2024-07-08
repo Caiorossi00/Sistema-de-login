@@ -3,6 +3,7 @@
   <h2>Destaques e Aprendizados:</h2>
   <ul>
     <li>Gerenciamento de Rotas e Sessões no Flask</li>
+    <li>Autenticação de Usuário</li>
     <li>Interação com Banco de Dados SQLite</li>
     <li>Renderização de Templates HTML com Jinja2</li>
   </ul>
